@@ -1,0 +1,54 @@
+D. Michael Parrish, PhD
+https://github.com/dmparrishphd
+2021-12-02
+
+To Whom It May Concern:
+
+WITNESSETH
+                WHEREAS "A trademark can be any word, phrase,
+                symbol, design, or a com-bination of these
+                things that identifies [my] goods or services"
+                [1]. WHEREAS I become "a trademark owner as soon
+                as [I] start using [my] trademark with [my]
+                goods or services" [1]. WHEREAS "Every time [I
+                use my] trademark, [I may] use a symbol with it.
+                The symbol lets consumers and competitors know
+                [that I am] claiming the trademark as [my own. I
+                may] use 'TM' for goods or 'SM' for services
+                even if [I] haven't filed an application to
+                register [my] trademark" [1]. WHEREAS a
+                trademark may be comprised of "words, letters,
+                numbers, or a combination of those without a
+                specific font, size, color, or design" [2].
+                WHEREAS "strong trademarks are suggestive,
+                fanciful, or arbitrary" [3]. WHEREAS "Fanciful
+                trademarks are invented words. They only have
+                meaning in relation to their goods or services"
+                [3]. WHEREAS "Arbitrary trademarks are actual
+                words that have no association with the
+                underlying goods or services" [3]. WHEREAS a
+                122-bit random value together with a 6-bit
+                arbitrary value is, for all practical purposes,
+                unique. THEREFORE I claim the two character-only
+                marks, each composed of hexadecimal digits and
+                hyphens,
+                        3ce137d6-a6e7-4ea2-a214-337ddc17a1e3
+                        a5e2b8b4-2c33-414c-b731-f6254e4bbe58
+                as my own, for use as a service mark and a
+                trademark. LIKEWISE, the unhyphenated variants:
+                        3ce137d6a6e74ea2a214337ddc17a1e3
+                        a5e2b8b42c33414cb731f6254e4bbe58
+
+                Sincerely,
+
+                D. Michael Parrish, PhD
+                urn:uuid:3ce137d6-a6e7-4ea2-a214-337ddc17a1e3 SM
+                urn:uuid:a5e2b8b4-2c33-414c-b731-f6254e4bbe58 TM
+
+References
+                [1] USPTO (2021-12-02) "What is a trademark"
+                https://www.uspto.gov/trademarks/basics/what-trademark
+                [2] USPTO (2021-12-02) "Trademark examples"
+                https://www.uspto.gov/trademarks/basics/trademark-examples
+                [3] USPTO (2021-12-02) "Strong trademarks"
+                https://www.uspto.gov/trademarks/basics/strong-trademarks
